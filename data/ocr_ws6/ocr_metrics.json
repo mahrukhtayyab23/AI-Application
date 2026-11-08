@@ -1,0 +1,38 @@
+{
+  "overall": {
+    "n_bottles": 182,
+    "tare_exact_match_weighted": 0.005,
+    "year_exact_match_weighted": 0.0,
+    "both_exact_match_weighted": 0.0,
+    "tare_exact_match_plain": 0.005,
+    "year_exact_match_plain": 0.0
+  },
+  "per_color": {
+    "black": {
+      "bottles": 154,
+      "tare_exact_match_weighted": 0.006,
+      "year_exact_match_weighted": 0.0,
+      "both_exact_match_weighted": 0.0
+    },
+    "cyan": {
+      "bottles": 28,
+      "tare_exact_match_weighted": 0.0,
+      "year_exact_match_weighted": 0.0,
+      "both_exact_match_weighted": 0.0
+    }
+  },
+  "back_right_only": {
+    "back_right_crops": 179,
+    "back_right_tare_hits": 0,
+    "back_right_year_hits": 5,
+    "back_right_tare_correct": 0,
+    "back_right_year_correct": 0
+  },
+  "coverage": {
+    "gt_bottles_targeted": 182,
+    "bottles_with_3_cameras": 162,
+    "bottles_with_2_cameras": 18,
+    "bottles_with_1_camera": 2,
+    "total_crops": 524
+  }
+}
